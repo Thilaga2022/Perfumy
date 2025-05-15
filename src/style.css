@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover{
+    text-decoration: underline wavy;
+}
+p:hover{
+background-color: black;
+color: white;
+padding: 5px;
+}
