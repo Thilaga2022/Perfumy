@@ -47,7 +47,7 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone https://github.com/Thilaga2022/perfumy.git
+git clone https://github.com/Thilaga2022/Perfumy.git
 cd perfy-scents
 Install dependencies:
 
